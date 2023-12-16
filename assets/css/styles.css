@@ -275,7 +275,7 @@ img {
 
 .teaching__img img {
   border-radius: .5rem;
-  width: 680px;
+  width: 1000px;
   /* height: 356px; */
 }
 
@@ -542,7 +542,7 @@ img {
 
 .teaching__img{
   margin: 2rem auto;
-  width: 80%;
+  width: 100%;
   height: auto;
 }
 
