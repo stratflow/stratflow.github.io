@@ -268,8 +268,9 @@ img {
 }
 
 .about__img img {
-  width: 200px;
   border-radius: .5rem;
+  width: 400px;
+  height: 350px;
 }
 
 /* ===== SKILLS =====*/
@@ -501,9 +502,7 @@ img {
   .about__container {
     padding-top: 2rem;
   }
-  .about__img img {
-    width: 300px;
-  }
+  
   .skills__container {
     grid-template-columns: repeat(2, 1fr);
     column-gap: 2rem;
