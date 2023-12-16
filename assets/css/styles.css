@@ -100,7 +100,7 @@ img {
 
 /*===== LAYOUT =====*/
 .bd-grid {
-  max-width: 1024px;
+  max-width: 1350px;
   display: grid;
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
@@ -269,8 +269,14 @@ img {
 
 .about__img img {
   border-radius: .5rem;
-  width: 475px;
-  height: 356px;
+  width: 500px;
+  /* height: 356px; */
+}
+
+.teaching__img img {
+  border-radius: .5rem;
+  width: 680px;
+  /* height: 356px; */
 }
 
 /* ===== SKILLS =====*/
